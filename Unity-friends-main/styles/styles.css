@@ -1,0 +1,36 @@
+.body{
+    text-align: center;
+    background-color: rgb(32, 32, 32);
+}
+
+
+.row{
+    background-color: rgb(32, 32, 32);
+    padding: 20px;
+    margin: 20px;
+    max-width: auto;
+
+}
+.container2{
+    background-color: blue;
+    padding: 50px;
+   
+}
+
+
+.letras {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    color: rgb(196, 199, 197);
+}    
+
+
+
+.formulario{
+    background-color: rgb(255, 255, 255);
+}
+
+.letras{
+    background-color: rgb(32, 32, 32);
+}

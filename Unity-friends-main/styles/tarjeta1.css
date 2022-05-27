@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: rgb(32, 32, 32);
+}
+
+
+
+.row{
+    background-color: rgb(32, 32, 32);
+    padding: 20px;
+    margin: 20px;
+    max-width: auto;
+} 
+
+
+
+.letras {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    color: rgb(255, 255, 255);
+}    
+
+
+.colortarjeta{
+    background-color: rgb(80, 79, 79);
+}
+
